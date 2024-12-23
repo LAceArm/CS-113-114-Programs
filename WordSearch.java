@@ -21,7 +21,7 @@ public class WordSearch{
       }
       System.out.println("Enter a string of characters. Please keep it below 9 letters:");
       String wordSearch=scan.nextLine();
-      while(wordSearch.length()>12){
+      while(wordSearch.length()>9){
          System.out.println("Please keep your input below 9 letters:");
          wordSearch=scan.nextLine();
       }
