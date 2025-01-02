@@ -1,1 +1,2 @@
-These files were created during an initial college course on CS. They're posted here so I can have a backup of them. Additional non program files are included because some programs heavily rely on those for their function.
+Some of these files were provided initially for the courses and were thus not written by me, but are still intergral to the function of many of the programs, so it was imperative that I include them in the repository.
+These files include the interface Dictionary.java and UAL and OAL dictionary classes. These were sourced from a book available at https://people.cs.vt.edu/shaffer/Book/JAVA3elatest.pdf
