@@ -1,1 +1,1 @@
-These files were created during an initial college course on CS. They're posted here so I can have a backup of them
+These files were created during an initial college course on CS. They're posted here so I can have a backup of them. Additional non program files are included because some programs heavily rely on those for their function.
